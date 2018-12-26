@@ -15,8 +15,6 @@ struct Array{
     std::vector<std::any> field_arr;
 };
 
-
-
 class Json {
     Object object;
     Array vec;
